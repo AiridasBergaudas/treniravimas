@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url('../image/IMG_medis.jpg');
+    height: 100px;
+}
+.wraper{
+    background-color: rgba(100, 100, 10, 0.5);
+    border: 0 solid red;
+}
